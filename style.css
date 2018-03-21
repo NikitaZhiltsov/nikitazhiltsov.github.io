@@ -1,0 +1,57 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+
+p {
+    margin-bottom: 12px;
+}
+
+h1, h2, h3{
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+h1{
+  font-size: 32px;
+}
+
+h2{
+  font-size: 32px;
+  margin-bottom: 8;
+}
+
+hr3{
+  font-size: 20px;
+}
+hr{
+  size: 1px;
+  color: gray;
+}
+
+#header{
+  text-align: center;
+  margin-bottom: 32px;
+  }
+#footer {
+  text-align: center;
+  margin-top: 64px;
+} 
+
+
+/*
+Чтобы увидеть страницу в деле нужно запустить веб-сервер. 
+Для этого запустите в командной строке 
+(терминал в нижней части упражнения) команду make start. 
+После этого страница будет доступна по ссылке "Веб-доступ" в 
+правой панели.
+
+Воспользуйтесь валидатором w3 чтобы удостовериться, что
+ваша страница полностью удовлетворяет правилам спецификации HTML.
+*/
