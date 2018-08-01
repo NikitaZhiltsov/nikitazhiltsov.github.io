@@ -16,6 +16,8 @@ body {
 #main{
     margin-left: 120px;
     margin-right: 120px;
+    background-color: #201E2F;
+    color: white;
 }
 h1{
     font-size: 36px;
