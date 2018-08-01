@@ -46,7 +46,11 @@ p {
   
 }
 
-a {
+A {
+    color: white;
+}
+
+A: visited {
     color: white;
 }
 
